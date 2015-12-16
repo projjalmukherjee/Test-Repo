@@ -1,3 +1,4 @@
+// comment added for js
 (function($) {
     var all_list = $('.gallery-block').children('li');
     var all_list_length = $('.gallery-block').children('li').length;
