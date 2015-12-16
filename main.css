@@ -2,6 +2,10 @@
     margin: 0;
 }
 
+.staging-class{
+    background: yellow;
+}
+
 body,
 html {
     background: brown;
